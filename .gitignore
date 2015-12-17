@@ -16,7 +16,7 @@
 # Unignore files with extensions .c and .h
 !*.c
 !*.h
-!*.pdf
+!*.png
 !*.gp
 
 # Unignore all dirs
